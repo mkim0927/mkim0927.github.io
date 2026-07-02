@@ -26,7 +26,7 @@ Jul 2026 - Present
 **Group Leader, Medical Robot Group**  
 Jan 2026 - Jun 2026
 
-**Manager / Group Leader, HRI Group**  
+**Group Leader, HRI Group**  
 Apr 2024 - Jan 2026
 
 - Designed and implemented control architectures for industrial, service, and medical robotic applications.
