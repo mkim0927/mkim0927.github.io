@@ -4,10 +4,6 @@
 Email: minjaekim[at]etri[.]re[.]kr  
 Last updated: July 2026
 
-## Professional Summary
-
-Robotics researcher and system designer working on medical robots, assistive robotic systems, prosthetic control, wearable sensing, and real-world robotic integration. My work combines robotic control, embedded systems, sensor integration, machine learning, and user-facing validation for systems that support or restore human movement.
-
 ## Research Areas
 
 - Robotic control and system integration
